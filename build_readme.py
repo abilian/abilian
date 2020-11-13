@@ -5,8 +5,8 @@ from pprint import pprint
 
 README_TEMPLATE = """
 Total downloads: {total_dl:,}<br>
-Downloads/month: {total_dl_per_month:,}<br>
-Stars count: {total_stars:,}
+Total downloads/month: {total_dl_per_month:,}<br>
+Total stars count: {total_stars:,}
 """.strip("\n")
 
 GITHUB_ACCOUNTS = [
