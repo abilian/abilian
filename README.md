@@ -17,9 +17,9 @@ Here are some automated stats about our published Python projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 1,223,910<br>
-Total downloads/month: 35,792<br>
-Total stars count: 174
+Total downloads: 1,225,565<br>
+Total downloads/month: 35,374<br>
+Total stars count: 175
 <!--end-->
 
 [sw-post]: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
