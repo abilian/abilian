@@ -17,8 +17,8 @@ Here are some automated stats about our published Python projects
 ([thanks Simon Willison!][sw-post]):
 
 <!--marker-->
-Total downloads: 1,765,214<br>
-Total downloads/month: 14,338<br>
+Total downloads: 1,765,278<br>
+Total downloads/month: 13,028<br>
 Total stars count: 244
 <!--end-->
 
